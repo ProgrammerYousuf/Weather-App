@@ -25,7 +25,6 @@ This is a weather app built with React and Tailwind CSS. It allows users to sear
 2. Install dependencies:
    ```
    npm install
-
 3. Start the development server:
    ```
    npm start
